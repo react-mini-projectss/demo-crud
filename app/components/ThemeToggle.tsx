@@ -23,7 +23,7 @@ export default function ThemeToggle() {
       className="btn btn-primary"
       style={{ marginBottom: "15px" }}
     >
-      {theme === "light" ? "🌙 Dark Mode" : "☀ Light Mode"}
+      {theme === "light" ? "Dark Mode" : " Light Mode"}
     </button>
   );
 }

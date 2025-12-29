@@ -52,7 +52,7 @@ export default function Home() {
       <div className="card">
         <ThemeToggle />
 
-        <h1>Next.js + MongoDB CRUD (TS)</h1>
+        <h1>Next.js + MongoDB CRUD</h1>
 
         <input
           className="input"
